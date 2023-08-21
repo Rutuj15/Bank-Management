@@ -1,8 +1,6 @@
 # Bank Management System
-This is a simple Bank Management System in **C++**.
+This is a simple Bank Management System in **C++** built using object-oriented programming (OOP) principles
 
-# Contribute
-I like contributors so please open an **issue** in for idea or **PR** for a **bug solution** or if you can add any **feature** to it or add something to the **README**.
-
+]
 
 
